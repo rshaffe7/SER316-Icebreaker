@@ -7,3 +7,5 @@ https://github.com/vappleton/SER316-Icebreaker-StoryTime/pull/14 | Created by Ke
 https://github.com/fanayaal/BlackForest-SER316-Story/pull/9 | Created by Juliana Bush
 
 https://github.com/acancelnPR/die-Romantiker/pull/6 | Created by Nathan Jordan
+
+https://github.com/takecheta/sanssouci_storytime/pull/5 | Created by Jerry Kang
